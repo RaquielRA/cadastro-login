@@ -31,3 +31,10 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Arquivos de configurações confidenciais (Credenciais do DB)
+######################################
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/*.properties
+src/main/resources/*.yml
