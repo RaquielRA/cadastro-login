@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.raquielra</groupId>
-    <artifactId>cadastro-login</artifactId>
+    <artifactId>cadastrologin</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>cadastro-login</name>
+    <name>cadastrologin</name>
     <description>Demo project for Spring Boot</description>
     <url/>
     <licenses>

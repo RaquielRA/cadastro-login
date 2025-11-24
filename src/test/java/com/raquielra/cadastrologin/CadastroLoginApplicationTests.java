@@ -1,4 +1,4 @@
-package com.raquielra.cadastro_login;
+package com.raquielra.cadastrologin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
